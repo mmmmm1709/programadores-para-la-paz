@@ -1,0 +1,1 @@
+Saber usar la terminal te hace más rápido, autónomo y confiable como desarrollador: te permite moverte y reorganizar un proyecto en segundos, automatizar tareas repetitivas y trabajar igual en tu PC local o en servidores remotos
