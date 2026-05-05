@@ -1,7 +1,0 @@
-Para mi el uso responsable de la información en internet sería como hablar con cuidado: no repetir chismes, verificar lo que decimos, y compartir solo lo que ayuda a la comunidad.
-
-La participación ciudadana es el acto de levantar la voz en esa plaza, proponer ideas, votar en decisiones colectivas, o simplemente escuchar con respeto.
-
-El trabajo técnico con Git se parece a organizar esas conversaciones en un cuaderno compartido: cada aporte queda registrado, nadie borra lo que otro dijo sin dejar constancia, y todos pueden volver atrás si algo se confunde.
-
-La relación entre los tres es profundamente humana: se trata de construir confianza. Cuando usamos la información con responsabilidad, la ciudadanía florece porque las decisiones se basan en verdad y respeto. Y cuando organizamos el trabajo con herramientas como Git, damos forma técnica a esa misma confianza: transparencia, colaboración y memoria compartida.
